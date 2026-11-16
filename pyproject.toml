@@ -1,0 +1,17 @@
+[project]
+name = "lica-hybrid-eeg"
+version = "1.0.0"
+description = "LICA: leakage- and interaction-controlled attribution for hybrid qEEG + EEGNet models (code for the Neuroinformatics article)"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[tool.pytest.ini_options]
+testpaths = ["lica/tests"]
+addopts = "-ra"
+
+[tool.ruff]
+line-length = 130
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E9", "F63", "F7", "F82", "F401", "F841", "E711", "E712", "B006"]
