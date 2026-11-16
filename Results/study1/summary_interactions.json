@@ -1,0 +1,11 @@
+{
+  "a_carrier":"asymmetry",
+  "top_pair_true_rate":{
+    "hybrid_naive":0.48,
+    "hybrid_res_adv":0.7,
+    "lica":0.66,
+    "qeeg_naive":0.54
+  },
+  "admitted_precision":0.875,
+  "folds_with_any_admitted":0.68
+}

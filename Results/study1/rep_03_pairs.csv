@@ -1,0 +1,5 @@
+config,fold,pair,replicate
+lica,0,spectralxasymmetry,3
+lica,1,complexityxasymmetry,3
+lica,1,distributionxconnectivity,3
+lica,2,spectralxasymmetry,3

@@ -1,0 +1,5 @@
+scheme,config,auc_cv,auc_rev,replicate
+trial,qeeg_naive,0.9922222222222222,0.22499999999999998,1
+trial,hybrid_naive,0.9944444444444445,0.23249999999999998,1
+subject,qeeg_naive,0.8355555555555556,0.2025,1
+subject,hybrid_naive,0.8344444444444444,0.1975,1
