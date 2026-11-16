@@ -1,0 +1,9 @@
+config,fold,pair,replicate
+lica,0,ratioxasymmetry,9
+lica,1,complexityxasymmetry,9
+lica,2,complexityxasymmetry,9
+lica,2,spectralxasymmetry,9
+lica_holm,2,complexityxasymmetry,9
+lica_holm,2,spectralxasymmetry,9
+lica,3,complexityxasymmetry,9
+lica,4,spectralxasymmetry,9
