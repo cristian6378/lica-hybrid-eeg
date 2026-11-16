@@ -1,0 +1,8 @@
+config,pair,frequency
+lica,complexityxasymmetry,0.06666666666666667
+lica,ratioxcomplexity,0.4
+lica,ratioxconnectivity,0.06666666666666667
+lica,spectralxconnectivity,0.06666666666666667
+qeeg_lica,ratioxcomplexity,0.4
+qeeg_lica,ratioxconnectivity,0.06666666666666667
+qeeg_lica,spectralxconnectivity,0.06666666666666667

@@ -1,0 +1,25 @@
+{
+  "repeats": 3,
+  "folds": 5,
+  "epochs": 30,
+  "background": 32,
+  "max_rows": 300,
+  "shap_perm": 10,
+  "shap_rows": 150,
+  "n_perm": 10,
+  "perm_test": 200,
+  "backend": "torch",
+  "allow_reference": false,
+  "fast": false,
+  "metadata": {
+    "age": "continuous",
+    "sex": "binary",
+    "days": "continuous",
+    "side": "binary"
+  },
+  "perm_test_qeeg_naive": {
+    "auc": 0.3477443609022557,
+    "p_perm": 0.8557213930348259,
+    "n_perm": 200
+  }
+}
